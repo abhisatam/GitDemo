@@ -21,6 +21,11 @@ public class AppTest
         System.out.println("Hi");
         System.out.println("Hello");
         System.out.println("Hey");
+        
+        System.out.println("Hi Sam");
+        System.out.println("Hello Sam");
+        System.out.println("Hey Sam");
+        
     }
 
     /**
