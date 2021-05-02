@@ -22,9 +22,9 @@ public class Demo1
         System.out.println("Hello");
         System.out.println("Hey");
         
-        System.out.println("Hi Sam");
-        System.out.println("Hello Sam");
-        System.out.println("Hey Sam");
+        System.out.println("Hi Kevin");
+        System.out.println("Hello Kevin");
+        System.out.println("Hey Kevin");
         
     }
 
